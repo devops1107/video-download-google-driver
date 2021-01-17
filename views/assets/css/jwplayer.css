@@ -1,0 +1,65 @@
+.jw-svg-icon.jw-svg-icon-play {
+    color: #24ff00;
+}
+.jw-svg-icon.jw-svg-icon-pause {
+    color: #ff2400;
+}
+.jw-svg-icon.jw-svg-icon-rewind {
+    color: #00f0ff;
+}
+.jw-svg-icon.jw-svg-icon-volume-0 {
+    color: #ff2400;
+}	
+.jw-svg-icon.jw-svg-icon-volume-50 {
+    color: #00ff00;
+}
+.jw-svg-icon.jw-svg-icon-volume-100 {
+    color: #0000ff;
+}
+.jw-icon.jw-icon-inline.jw-text.jw-reset {
+    color: #eafba3;
+	font-weight:600;
+}
+.jw-slider-time .jw-rail.jw-reset {
+    background-color: rgba(253, 255, 87, 0.8);
+}
+.jw-slider-time .jw-buffer.jw-reset {
+    background-color: rgba(237, 70, 70, 0.82);
+}
+.jw-slider-time .jw-progress.jw-reset {
+    background-color: #b29fff;
+}
+.jw-display-icon-container .jw-icon {
+    color: rgba(48, 247, 44, 0.75);
+}
+.jw-title-primary, .jw-title-secondary {
+    color: #64d1f1;
+	}
+.jw-svg-icon.jw-svg-icon-cc-on{
+color: #ff6f6f;	
+}
+.jw-svg-icon.jw-svg-icon-cc-off{
+color: #9f9e9c;	
+}
+.jw-svg-icon.jw-svg-icon-settings{	
+color: mediumpurple;	
+}
+.jw-svg-icon.jw-svg-icon-fullscreen-on{
+color: #ffbdb5;
+}
+.jw-svg-icon.jw-svg-icon-fullscreen-off{
+color: #ffb5f3;
+}
+.jw-text-track-cue.jw-reset {
+    background-color: rgba(255, 255, 255, 0);
+    color: #fff;
+    padding: .1em .3em;
+    text-shadow: 0 0 10px yellow;
+}
+.jwplayer.jw-flag-aspect-mode {
+    height: 100% !important;
+}
+.jwplayer.jw-flag-aspect-mode, .video-js {width:100% !important; height: 100% !important}
+ #myvideo .jw-preview.jw-reset {
+    background-size: cover;
+}
